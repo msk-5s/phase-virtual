@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: BSD-3-Clause
 
 """
 This script plots the phase identification accuracy standard deviation for the load and virtual

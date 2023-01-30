@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: BSD-3-Clause
 
 """
 This script plots the histogram of the number of loads connected to the secondary transformers.

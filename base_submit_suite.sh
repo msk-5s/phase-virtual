@@ -1,7 +1,7 @@
 #!/bin/bash
 # <Place HPC tool specific headers here>
 
-# SPDX-License-Identifier: MIT
+# SPDX-License-Identifier: BSD-3-Clause
 
 # This bash script is for submitting an array job to a High Performance Computing (HPC) tool such
 # as SLURM. Depending on the tool being used, you may only need to change `SLURM_ARRAY_TASK_ID`
